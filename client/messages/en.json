@@ -1,0 +1,14 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "hello_world": "Hello, {name} from en!",
+  "page_title": "Build Your Application",
+  "page_description": "This is a demo of a Svelte app with Paraglide-JS localization.",
+  "textarea_placeholder": "Enter text here...",
+  "generate_button": "Generate",
+  "loading_button": "Loading...",
+  "chat_placeholder": "Type your message...",
+  "sending_chat_button": "Sending...",
+  "send_chat_button": "Send",
+  "error_unexpected_response": "Sorry, I received an unexpected response from the AI.",
+  "error_ai_connection": "Sorry, I couldn't connect to the AI. Please try again later."
+}

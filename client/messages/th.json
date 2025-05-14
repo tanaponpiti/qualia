@@ -1,0 +1,14 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "hello_world": "Hello, {name} from th!",
+  "page_title": "สร้างแอปพลิเคชันของคุณ",
+  "page_description": "นี่คือการสาธิตแอป Svelte ที่มีการแปลเป็นภาษาท้องถิ่นด้วย Paraglide-JS",
+  "textarea_placeholder": "ป้อนข้อความที่นี่...",
+  "generate_button": "สร้าง",
+  "loading_button": "กำลังโหลด...",
+  "chat_placeholder": "พิมพ์ข้อความของคุณ...",
+  "sending_chat_button": "กำลังส่ง...",
+  "send_chat_button": "ส่ง",
+  "error_unexpected_response": "ขออภัย ฉันได้รับการตอบกลับที่ไม่คาดคิดจาก AI",
+  "error_ai_connection": "ขออภัย ฉันไม่สามารถเชื่อมต่อกับ AI ได้ โปรดลองอีกครั้งในภายหลัง"
+}
